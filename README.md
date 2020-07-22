@@ -2,6 +2,11 @@
 
 The recent data shows that what prevents potential donors from donating is the lack of transparency from the recipient organization's side. We realized, based on our own experiences, because of this, we have to go through a lot of hassle: looking for nonprofits/charities, checking whether they are legitimate, etc. Almost overwhelming and frustrating. Yet, when we do online shopping, it feels fun and easy. We realized it is because we can see what we are giving our money for before we actually pay. Just a couple of clicks, and the purchase is on the way. Therefore, e-commerce inspired us to build this e-donation platform that made donating easy and enabled donors to know what impact their money can create.
 
+# Main Features:
+- Easiness: As easy as online shopping
+- Transparency: It shows the donors where their money goes with quantifiable impact
+- Donate by cause: Donors can pick a cause their care about and support it
+
 ## Running this project
 
 To get this project up and running follow these steps:
