@@ -5,7 +5,7 @@ The recent data shows that what prevents potential donors from donating is the l
 ### Main Features:
 - Easiness: As easy as online shopping
 - Transparency: It shows the donors where their money goes with quantifiable impact
-- Donate by cause: Donors can pick a cause their care about and support it
+- Donate by cause: Donors can pick a cause they care about and support it
 
 ## Running this project
 
